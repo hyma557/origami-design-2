@@ -1,0 +1,18 @@
+h1{
+    color:brown;
+    background-color:black
+}
+.grid{
+    background: darkred;
+    background-color:rgb(219, 224, 211);
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+}
+.img{
+    border: 3px solid ;
+    border-radius: 10px;
+    width: 409px;
+}
